@@ -4,14 +4,14 @@ Learning C# for desktop applications and arcade-style SNES game development.
 ---
 📖 **Learning Roadmap:** [There and Back Again: A CSharp Developer's Tale](./There-and-Back-Again.md)
 ---
-## 🎯 Learning Goals
+### 🎯 Learning Goals
 - Master C# fundamentals and object-oriented programming.
 - Build desktop applications with WPF.
 - Create games with arcade-style scoring systems using MonoGame framework.
 
-## 📚 Progress
+# 📚 Progress
 
-## ✅ Completed
+### ✅ Completed
 - [x] Microsoft Get started with C# Part 1.
 - [ ] Microsoft Get started with C# Part 2.
 - [ ] Microsoft Get started with C# Part 3.
@@ -19,16 +19,16 @@ Learning C# for desktop applications and arcade-style SNES game development.
 - [ ] Microsoft Get started with C# Part 5.
 - [ ] Microsoft Get started with C# Part 6.
 
-## 🚧 Currently Learning
+### 🚧 Currently Learning
 - Microsoft C# Get started with C# - Parts 1-6
 
-## 📋 Next Steps
+### 📋 Next Steps
 - Advanced C# concepts (LINQ, Events, File I/O)
 - Git/Version Control
 - WPF desktop development
 - MonoGame game development
 
-## 🗂️ Repository Structure
+### 🗂️ Repository Structure
 ```
 C#-Projects/
 ├── Advanced/             # APIs, databases, complex features
@@ -36,10 +36,10 @@ C#-Projects/
 ├── MonoGame/             # 2D game development projects
 └── WPF/                  # Desktop application projects
 ```
-## 🎮 Planned Projects
+### 🎮 Planned Projects
 - TBD
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 **Technology:**
 - Language: C# (.NET)
 - Desktop: WPF
