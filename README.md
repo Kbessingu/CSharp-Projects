@@ -29,10 +29,10 @@ My journey learning C# for desktop applications and arcade like SNES-style game 
 ## 🗂️ Repository Structure
 ```
 C#-Projects/
+├── Advanced/             # APIs, databases, complex features
 ├── Fundamentals/         # Basic C# concepts and exercises
 ├── MonoGame/             # 2D game development projects
-├── WPF/                  # Desktop application projects
-└── Advanced/             # APIs, databases, complex features
+└── WPF/                  # Desktop application projects
 ```
 ## 🎮 Planned Projects
 - TBD
