@@ -2,6 +2,8 @@
 
 My journey learning C# for desktop applications and arcade like SNES-style game development.
 ---
+📖 **Learning Roadmap:** [There and Back Again: A CSharp Developer's Tale](./There-and-Back-Again.md)
+---
 ## 🎯 Learning Goals
 - Master C# fundamentals and object-oriented programming.
 - Build desktop applications with WPF.
