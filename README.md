@@ -7,7 +7,7 @@ My journey learning C# for desktop applications and game development.
 
 ### ✅ Completed Projects
 **Fundamentals/**
-- BasicSyntax - Variables, loops, conditionals
+- Basic syntax - Variables, loops, conditionals
 - OOP-Practice - Classes and inheritance examples
 
 **WPF/**
