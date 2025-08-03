@@ -1,6 +1,6 @@
 # C# Projects Repository
 
-My journey learning C# for desktop applications and arcade like SNES-style game development.
+Learning C# for desktop applications and arcade-style SNES game development.
 ---
 📖 **Learning Roadmap:** [There and Back Again: A CSharp Developer's Tale](./There-and-Back-Again.md)
 ---
