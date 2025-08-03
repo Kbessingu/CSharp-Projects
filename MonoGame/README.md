@@ -1,2 +1,2 @@
 # Monogame
-Monogame projects will go here.
+2D game development projects will go here.
