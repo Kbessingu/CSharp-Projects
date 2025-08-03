@@ -1,2 +1,2 @@
 # Windows Presentation Foundation
-WPF projects will go here.
+Desktop application projects will go here.
