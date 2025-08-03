@@ -11,7 +11,7 @@ My journey learning C# for desktop applications and game development.
 - OOP-Practice - Classes and inheritance examples
 
 **WPF/**
-- Calculator - Basic desktop calculator app
+- 
 
 ### 🚧 Work in Progress
 **MonoGame/**
