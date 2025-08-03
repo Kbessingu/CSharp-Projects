@@ -1,6 +1,8 @@
 # C# Projects Repository
 
-Welcome to my C# learning journey! This repository documents my progress from fundamentals to building desktop applications and SNES-style games.
+Welcome to my C# learning journey!
+This repository documents my progress from fundamentals to building desktop applications and SNES-style games.
+
 🎯 Learning Goals
 
 Master C# fundamentals and object-oriented programming
@@ -12,10 +14,10 @@ Develop arcade-style scoring systems and game mechanics
 Following the Microsoft C# learning modules and structured skill development:
 ✅ Completed
 
- Basic C# Syntax - Variables, data types, operators
- Debugging Techniques - Visual Studio debugging tools
- Object-Oriented Programming - Classes, inheritance, polymorphism
- Git/Version Control - Repository management and workflows
+ Basic C# Syntax - Variables, data types, operators.
+ Debugging Techniques - Visual Studio debugging tools.
+ Object-Oriented Programming - Classes, inheritance, polymorphism.
+ Git/Version Control - Repository management and workflows.
 
 🚧 In Progress
 
@@ -28,11 +30,13 @@ MonoGame 2D game development
 Database integration and API consumption
 
 🗂️ Repository Structure
+```
 C-Projects/
 ├── Fundamentals/         # Basic C# concepts and exercises
 ├── MonoGame/             # 2D game development projects
 ├── WPF/                  # Desktop application projects
 └── Advanced/             # APIs, databases, complex features
+```
 
 🎮 Featured Projects
 Completed Projects
