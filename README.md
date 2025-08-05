@@ -40,7 +40,7 @@ C#-Projects/
 **Technology:**
 - Language: C# (.NET)
 - Desktop: WPF
-- Games: MonoGame
+- Framework: MonoGame
 - IDE: Visual Studio 2022
 
 **Learning Resources:**
