@@ -39,7 +39,7 @@ C#-Projects/
 # 🛠️ Tech Stack
 **Technology:**
 - Language: C# (.NET)
-- Desktop: WPF
+- Platform: WPF
 - Framework: MonoGame
 - IDE: Visual Studio 2022
 
