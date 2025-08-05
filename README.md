@@ -1,7 +1,4 @@
-# C# Projects Repository
-
-Learning C# for desktop applications and arcade-style SNES game development.
----
+# Repo for learning desktop applications and arcade-style SNES game development.
 📖 **Learning Roadmap:** [C# Learning Roadmap](./C%23%20Learning%20Roadmap.md)
 ---
 ### 🎯 Learning Goals
