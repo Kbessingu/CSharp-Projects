@@ -1,4 +1,4 @@
-# Repo for learning desktop applications and arcade-style SNES game development.
+# Repo for learning desktop applications and arcade-style SNES like game development.
 📖 **Learning Roadmap:** [C# Learning Roadmap](./C%23%20Learning%20Roadmap.md)
 ---
 ### 🎯 Learning Goals
