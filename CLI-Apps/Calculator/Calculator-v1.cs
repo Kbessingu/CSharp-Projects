@@ -14,4 +14,4 @@ double division = num1 / num2;
 Console.WriteLine($"{num1} + {num2} = {addition}");
 Console.WriteLine($"{num1} - {num2} = {substaction}");
 Console.WriteLine($"{num1} * {num2} = {multiplication}");
-Console.WriteLine($"{num1} + {num2} = {division}");
+Console.WriteLine($"{num1} / {num2} = {division}");
