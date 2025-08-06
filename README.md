@@ -44,6 +44,7 @@ C#-Projects/
 - IDE: Visual Studio 2022
 
 **Learning Resources:**
+- ***[C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)***
 - ***[Get started with C#](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)*** by Microsoft { This is madatory in my opinion }
 - [The C# Player's Guide](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151) by RB Whitaker
 - [WPF 4.5 Unleashed](https://www.amazon.com/WPF-4-5-Unleashed-Adam-Nathan/dp/0672336979?dib=eyJ2IjoiMSJ9.N7dWjTadWzA7oSHz1vjk9Y_jL2bR4GdVEwCkh7gZvrA.DrFR6vy_tTNHcznlCbR-HslPmSh2SjI-iz0gY596mmc&dib_tag=se&keywords=WPF+4.5+Unleashed&qid=1754194266&sr=8-1) by Adam Nathan
