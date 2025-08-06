@@ -29,8 +29,8 @@
 ```
 C#-Projects/
 ├── Advanced/             # APIs, databases, complex features
-├── Fundamentals/         # Basic C# concepts and exercises
-├── MonoGame/             # 2D game development projects
+├── CLI-Apps/             # Basic C# command line applications
+├── Monogame/             # 2D game development projects
 └── WPF/                  # Desktop application projects
 ```
 ### 🎮 Planned Projects
