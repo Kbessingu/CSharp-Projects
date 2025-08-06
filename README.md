@@ -17,7 +17,7 @@
 - [ ] Microsoft Get started with C# Part 6.
 
 ### 🚧 Currently Learning
-- Fundamental C#
+- Basic C# Syntax & Programming Concepts
 
 ### 📋 Next Steps
 - Advanced C# concepts (LINQ, Events, File I/O)
