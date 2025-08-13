@@ -1,5 +1,5 @@
 /*
-Command line Dice app with 3 rolls with stacking bonus(logic bug)
+Command line Dice app with 3 rolls with stacking bonus( logic bug )
 Using if statments, logic operators( ||, && )
 */
 
