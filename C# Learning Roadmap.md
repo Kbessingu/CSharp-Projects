@@ -38,7 +38,7 @@
     - ***Event handling*** - Button clicks, user interaction
     - ***Basic styling*** - Making applications look professional
     - ***Project:*** Calculator app with clean UI
-7. **MonoGame Game Development Basics**
+7. **monogame Game Development Basics**
     - ***Game loop concept*** - Update/Draw cycle, timing
     - **2D graphics*** - Sprites, texture, positioning
     - ***Input handling*** - Keyboard and mouse controls
@@ -50,7 +50,7 @@
 	- ***Basic project organization and architecture***
 	- ***Projects:***
 		- Todo list app (WPF) with data persistence
-		- Simple arcade game (MonoGame) with high scores
+		- Simple arcade game (monogame) with high scores
 ---
 ## Intermediate Skills (Months 6-9)
 9. **Advanced WPF Development**
@@ -80,7 +80,7 @@
     - WPF app with local database
     - Game with online leaderboard integration
 13. **Professional Game Development**
-    - ***Advanced MonoGame features*** - Shaders, particle systems
+    - ***Advanced monogame features*** - Shaders, particle systems
     - ***Performance optimization*** - Memory management, efficient rendering
     - ***Game physics*** - Collision systems, movement mechanics
     - ***Polish features*** - Screen transitions, visual effects
