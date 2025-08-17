@@ -2,7 +2,7 @@
 
 ## Fundamentals (Months 1-3)
 1. **Basic C# Syntax & Programming Concepts**
-	- ***Variables and data types*** - int, string, bool, arrays
+	- [ ] ***Variables and data types*** - int, string, bool, arrays
 	- ***Control structures*** - if/else, loops, switch statements
 	- ***Operators*** - Arithmetic, logical, comparison
 	- ***Methods and functions*** - Parameters, return values
