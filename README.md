@@ -1,13 +1,6 @@
 # Repo for learning desktop applications and arcade-style SNES like game development.
 📖 **Learning Roadmap:** [C# Learning Roadmap](./C%23%20Learning%20Roadmap.md)
 ---
-### 👉 Get started with C#
-- [x] Microsoft Get started with C# Part 1.
-- [ ] Microsoft Get started with C# Part 2.
-- [ ] Microsoft Get started with C# Part 3.
-- [ ] Microsoft Get started with C# Part 4.
-- [ ] Microsoft Get started with C# Part 5.
-- [ ] Microsoft Get started with C# Part 6.
 
 ### 🎯 Learning Goals
 - Master C# fundamentals and object-oriented programming.
