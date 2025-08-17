@@ -24,7 +24,6 @@
 
 ### 📋 Next Steps
 - Advanced C# concepts (LINQ, Events, File I/O)
-- Git/Version Control
 - WPF desktop development
 - Monogame game development
 
