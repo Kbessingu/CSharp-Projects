@@ -40,7 +40,7 @@ C#-Projects/
 
 **Learning Resources:**
 - ***[C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)***
-- ***[Get started with C#](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)*** by Microsoft { This is madatory in my opinion }
+- ***[Get started with C#](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)***
 - [C# Coding Guidelines](https://csharpcodingguidelines.com/)
 - [Essential C# online book](https://essentialcsharp.com/home) by Eric Lippert & Kevin Bost
 - [The C# Player's Guide](https://www.amazon.com/C-Players-Guide-5th/dp/0985580151) by RB Whitaker
