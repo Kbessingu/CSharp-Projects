@@ -16,14 +16,14 @@
 	- [ ] ***Classes and objects*** - Properties, methods, constructors
 	- [ ] ***Encapsulation*** - Public/private access modifiers
 	- [ ] ***Basic inheritance*** - Base classes, derived classes
-	- [ ] ***Polymorphism basics*** - Virtual methods, overriding<br>
+	- [ ] ***Polymorphism basics*** - Virtual methods, overriding
 	***Project:***
   		- [ ] Iterate on CLI applications to include OOP
 4. **Advanced C# Concepts**
 	- [ ] ***Advanced OOP*** - Interfaces, abstract classes, composition
 	- [ ] ***LINQ basics*** - Querying collections, filtering data
 	- [ ] ***Events and delegates*** - Event handling, callbacks
-	- [ ] ***File I/O operations*** - Reading/writing text files, directories<br>
+	- [ ] ***File I/O operations*** - Reading/writing text files, directories
 	***Project:***
 		- [ ] Text-based adventure game
 ---
@@ -32,7 +32,7 @@
 	- [ ] ***XAML basics*** - Layout panels, controls and Markup syntax
 	- [ ] ***Data binding*** - Connecting UI to data sources
 	- [ ] ***Event handling*** - Button clicks, user interaction
-	- [ ] ***Basic styling*** - Making applications look advanced<br>
+	- [ ] ***Basic styling*** - Making applications look advanced
    	***Project:***
      	- [ ] Calculator app with clean UI
 6. **monogame Game Development Basics**
@@ -45,7 +45,7 @@
 7. **Practical Application Building**
 	- [ ] ***File I/O operations*** - Save/load data, configuration files
 	- [ ] ***Error handling in real applications***
-	- [ ] ***Basic project organization and architecture***<br>
+	- [ ] ***Basic project organization and architecture***
 	***Projects:***
 		- [ ] Personal productivity app
 ---
@@ -54,14 +54,14 @@
     - [ ] ***MVVM pattern*** - Separating UI from business logic
     - [ ] ***Advanced data binding*** - Collections, converters, validation
     - [ ] ***Custom controls and user controls***
-    - [ ] ***Application lifecycle and navigation***<br>
+    - [ ] ***Application lifecycle and navigation***
    	***Project:***
      	- [ ] Simple Kanban board with ToDo/Project Design Document built in
 9. **Game Development**
     - [ ] ***Game state management*** - Menu, gameplay, pause states
     - [ ] ***Animation systems*** - Sprite animation, tweening
     - [ ] ***Sound integration*** - Effects and background music
-    - [ ] ***Game object patterns*** - Components, inheritance hierarchies<br>
+    - [ ] ***Game object patterns*** - Components, inheritance hierarchies
 ***Project:***
 		- [ ] SNES-style platformer with multiple levels
 11. **Design Patterns & Architecture**
@@ -74,7 +74,7 @@
     - [ ] ***SQLite fundamentals***
 	- [ ] ***JSON handling***
 	- [ ] ***File I/O for data persistence***
- 	- [ ] ***Local database design***<br>
+ 	- [ ] ***Local database design***
 	***Projects:***
    		- [ ] Setting up and configure a database
      	- [ ] Setting up and configure a json file????
@@ -88,14 +88,14 @@
     - [ ] ***Advanced monogame features*** - Shaders, particle systems
     - [ ] ***Performance optimization*** - Memory management, efficient rendering
     - [ ] ***Game physics*** - Collision systems, movement mechanics
-    - [ ] ***Polish features*** - Screen transitions, visual effects<br>
+    - [ ] ***Polish features*** - Screen transitions, visual effects
 	***Project:***
 		- [ ] Complete SNES-style game ready for distribution
 14. **Advanced Application Development**
 	- [ ] ***Advanced WPF features*** - Custom themes, advanced layouts
 	- [ ] ***User authentication*** - Login systems, user management
 	- [ ] ***Application deployment*** - Installers, updates
-	- [ ] ***Testing basics*** - Unit tests for critical functionality<br>
+	- [ ] ***Testing basics*** - Unit tests for critical functionality
 	***Project:***
   		- [ ] Complete desktop application with advanced features
 ---
