@@ -18,7 +18,7 @@
 	- [ ] ***Basic inheritance*** - Base classes, derived classes
 	- [ ] ***Polymorphism basics*** - Virtual methods, overriding
 	***Project:***
-  		- [ ] Iterate on CLI applications to include OOP
+		- [ ] Iterate on CLI applications to include OOP
 4. **Advanced C# Concepts**
 	- [ ] ***Advanced OOP*** - Interfaces, abstract classes, composition
 	- [ ] ***LINQ basics*** - Querying collections, filtering data
@@ -33,15 +33,15 @@
 	- [ ] ***Data binding*** - Connecting UI to data sources
 	- [ ] ***Event handling*** - Button clicks, user interaction
 	- [ ] ***Basic styling*** - Making applications look advanced
-   	***Project:***
-     	- [ ] Calculator app with clean UI
+	***Project:***
+		- [ ] Calculator app with clean UI
 6. **monogame Game Development Basics**
 	- [ ] ***Game loop concept*** - Update/Draw cycle, timing
 	- [ ] **2D graphics*** - Sprites, texture, positioning
 	- [ ] ***Input handling*** - Keyboard and mouse controls
-	- [ ] ***Basic collision detection***<br>
+	- [ ] ***Basic collision detection***
 	***Project:***
-  		- [ ] Simple arcade game with high scores
+		- [ ] Simple arcade game with high scores
 7. **Practical Application Building**
 	- [ ] ***File I/O operations*** - Save/load data, configuration files
 	- [ ] ***Error handling in real applications***
@@ -51,44 +51,44 @@
 ---
 ## Intermediate Skills (Months 6-9)
 8. **WPF Development**
-    - [ ] ***MVVM pattern*** - Separating UI from business logic
-    - [ ] ***Advanced data binding*** - Collections, converters, validation
-    - [ ] ***Custom controls and user controls***
-    - [ ] ***Application lifecycle and navigation***
-   	***Project:***
-     	- [ ] Simple Kanban board with ToDo/Project Design Document built in
+	- [ ] ***MVVM pattern*** - Separating UI from business logic
+	- [ ] ***Advanced data binding*** - Collections, converters, validation
+	- [ ] ***Custom controls and user controls***
+	- [ ] ***Application lifecycle and navigation***
+	***Project:***
+		- [ ] Simple Kanban board with ToDo/Project Design Document built in
 9. **Game Development**
-    - [ ] ***Game state management*** - Menu, gameplay, pause states
-    - [ ] ***Animation systems*** - Sprite animation, tweening
-    - [ ] ***Sound integration*** - Effects and background music
-    - [ ] ***Game object patterns*** - Components, inheritance hierarchies
+	- [ ] ***Game state management*** - Menu, gameplay, pause states
+	- [ ] ***Animation systems*** - Sprite animation, tweening
+	- [ ] ***Sound integration*** - Effects and background music
+	- [ ] ***Game object patterns*** - Components, inheritance hierarchies
 	***Project:***
 		- [ ] SNES-style platformer with multiple levels
-11. **Design Patterns & Architecture**
+10. **Design Patterns & Architecture**
 	- [ ] ***Essential patterns for games/apps***: Observer, Strategy, Factory, State
 	- [ ] ***Code organization*** - When and how to use patterns
 	- [ ] ***Refactoring existing projects*** to use better patterns
 ---
 ## Advanced Topics (Months 9-12)
 11. **Data Storage & Persistence**
-    - [ ] ***SQLite fundamentals***
+	- [ ] ***SQLite fundamentals***
 	- [ ] ***JSON handling***
 	- [ ] ***File I/O for data persistence***
- 	- [ ] ***Local database design***
+	- [ ] ***Local database design***
 	***Projects:***
-   		- [ ] Setting up and configure a database
-     	- [ ] Setting up and configure a json file????
+		- [ ] Setting up and configure a database
+		- [ ] Setting up and configure a json file????
 12. **APIs & Web Integration**
-    - [ ] ***API fundamentals***
-    - [ ] ***API consumption***
-    - [ ] ***HTTP requests/responses***
-    - [ ] ***API authentication***
-    - [ ] ***Integrating external services***
+	- [ ] ***API fundamentals***
+	- [ ] ***API consumption***
+	- [ ] ***HTTP requests/responses***
+	- [ ] ***API authentication***
+	- [ ] ***Integrating external services***
 13. **Advanced Game Development**
-    - [ ] ***Advanced monogame features*** - Shaders, particle systems
-    - [ ] ***Performance optimization*** - Memory management, efficient rendering
-    - [ ] ***Game physics*** - Collision systems, movement mechanics
-    - [ ] ***Polish features*** - Screen transitions, visual effects
+	- [ ] ***Advanced monogame features*** - Shaders, particle systems
+	- [ ] ***Performance optimization*** - Memory management, efficient rendering
+	- [ ] ***Game physics*** - Collision systems, movement mechanics
+	- [ ] ***Polish features*** - Screen transitions, visual effects
 	***Project:***
 		- [ ] Complete SNES-style game ready for distribution
 14. **Advanced Application Development**
@@ -97,5 +97,5 @@
 	- [ ] ***Application deployment*** - Installers, updates
 	- [ ] ***Testing basics*** - Unit tests for critical functionality
 	***Project:***
-  		- [ ] Complete desktop application with advanced features
+		- [ ] Complete desktop application with advanced features
 ---
