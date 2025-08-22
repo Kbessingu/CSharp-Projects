@@ -1,11 +1,11 @@
-# Repo for learning desktop applications and arcade-style SNES like game development.
+# Repo for learning C#.
 📖 **Learning Roadmap:** [C# Learning Roadmap](./C%23%20Learning%20Roadmap.md)
 ---
 
 ### 🎯 Learning Goals
 - Master C# fundamentals and object-oriented programming.
 - Build desktop applications with WPF.
-- Create games with arcade-style scoring systems using Monogame framework.
+- Create games with arcade-style SNES like games using Monogame framework.
 
 # 📚 Progress
 
