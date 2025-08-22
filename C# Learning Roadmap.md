@@ -6,7 +6,7 @@
 	- [ ] ***Control structures*** - if/else, loops, switch statements
 	- [ ] ***Operators*** - Arithmetic, logical, comparison
 	- [ ] ***Methods and functions*** - Parameters, return values
-***Project:***
+	***Project:***
 		- [ ] Complete Microsoft C# Learning Path (Parts 1-6)
 2. **Debugging & Development Tools**
 	- [ ] ***Visual Studio debugging*** - Breakpoints, watch windows, call stack
@@ -62,7 +62,7 @@
     - [ ] ***Animation systems*** - Sprite animation, tweening
     - [ ] ***Sound integration*** - Effects and background music
     - [ ] ***Game object patterns*** - Components, inheritance hierarchies
-***Project:***
+	***Project:***
 		- [ ] SNES-style platformer with multiple levels
 11. **Design Patterns & Architecture**
 	- [ ] ***Essential patterns for games/apps***: Observer, Strategy, Factory, State
@@ -70,7 +70,7 @@
 	- [ ] ***Refactoring existing projects*** to use better patterns
 ---
 ## Advanced Topics (Months 9-12)
-11. **Data Storate & Persistence**
+11. **Data Storage & Persistence**
     - [ ] ***SQLite fundamentals***
 	- [ ] ***JSON handling***
 	- [ ] ***File I/O for data persistence***
