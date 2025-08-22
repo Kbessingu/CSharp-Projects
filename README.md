@@ -1,5 +1,5 @@
 # Repo for learning C# for game and application development.
-📖 **Learning Roadmap:** [C# Learning Roadmap](./C%23%20Learning%20Roadmap.md)
+📖 **Learning Roadmap:** [C# Learning Roadmap](./C%23-Learning-Roadmap.md)
 ---
 
 ### 🎯 Learning Goals
