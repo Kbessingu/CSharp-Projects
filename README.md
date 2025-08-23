@@ -38,7 +38,7 @@ C#-Projects/
 - Framework: Monogame
 - IDE: Visual Studio 2022
 
-# **Learning Resources:**
+# 📓**Learning Resources:**
 #### Websites:
 - ***[C# Coding Guidelines](https://csharpcodingguidelines.com/)***
 - ***[Get started with C#](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)***
